@@ -2,10 +2,10 @@
   key: {
     remoteJid: '573234257398@s.whatsapp.net',
     fromMe: false,
-    id: 'DA0279AB5F0C2157DD8A70DBA3069735',
+    id: 'C563968ACCDF4153A4A70A8C59C04013',
     participant: undefined
   },
-  messageTimestamp: 1714953726,
+  messageTimestamp: 1714955186,
   pushName: 'Anthony',
   broadcast: false,
   message: Message {
@@ -19,8 +19,8 @@
   from: '573234257398'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4589054c-f042-4f88-9e71-25fd3359f96a',
-  keyword: 'key_d3badcf2-7c8b-4b12-b1e7-65573c326a96',
+  ref: 'ans_dd5031a3-b10d-4ae8-9622-0e2b8c5a06b3',
+  keyword: 'key_dc9bf6c3-cb52-4682-8a90-f4bf888df88a',
   answer: 'Elegi alguna de estas opciones:\r\n' +
     '\r\n' +
     'Opcion 1 - Menu\r\n' +
@@ -40,16 +40,16 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '75d5a97daa04c2ad55a883d178591792'
+  refSerialize: '0ead7552c9ebaf72f1d60440ba7a8569'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '573234257398@s.whatsapp.net',
     fromMe: false,
-    id: 'DAA44F48018BE04C07A3860EA9AA3FA7',
+    id: '74AD5BBDF8AF51763CE1F057AFC2B93B',
     participant: undefined
   },
-  messageTimestamp: 1714953730,
+  messageTimestamp: 1714955189,
   pushName: 'Anthony',
   broadcast: false,
   message: Message {
@@ -66,19 +66,103 @@
   key: {
     remoteJid: '573234257398@s.whatsapp.net',
     fromMe: false,
-    id: 'E1A6605E045C1875169F20E028EAD80B',
+    id: 'DA82738F6B064003357E9CA425A110B5',
     participant: undefined
   },
-  messageTimestamp: 1714953743,
+  messageTimestamp: 1714955192,
   pushName: 'Anthony',
   broadcast: false,
   message: Message {
-    conversation: 'Tienen café?',
+    conversation: 'Que bebidas tiene',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Tienen café?',
+  body: 'Que bebidas tiene',
+  from: '573234257398'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: 'BF40896F9E8F3B9C9465197B8C9A524C',
+    participant: undefined
+  },
+  messageTimestamp: 1714955202,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573234257398'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dd5031a3-b10d-4ae8-9622-0e2b8c5a06b3',
+  keyword: 'key_dc9bf6c3-cb52-4682-8a90-f4bf888df88a',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0ead7552c9ebaf72f1d60440ba7a8569'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '4071E8A2A918B5ED1BA44E481C57CD00',
+    participant: undefined
+  },
+  messageTimestamp: 1714955204,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573234257398'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: 'FE7669858B79BC854B4F3B3E49F8E8AC',
+    participant: undefined
+  },
+  messageTimestamp: 1714955213,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tienen servicio a domicilio?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tienen servicio a domicilio?',
   from: '573234257398'
 }
