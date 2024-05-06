@@ -1,0 +1,227 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '868F199E5F2F3BDCBD44B65CA1ECA093',
+    participant: undefined
+  },
+  messageTimestamp: 1714953523,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573234257398'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_72f15b88-61be-45bb-b7d0-d2ea123ab18e',
+  keyword: 'key_925e7cc9-a29b-4880-ab9c-c26f76bb6e8f',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '94422568f20f8cadc77bbb01fc20c5c5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '49357840F8CB4E9CB042E31221B21B0F',
+    participant: undefined
+  },
+  messageTimestamp: 1714953526,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573234257398'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '1F1DC51EB63028F96E44D663F02E304E',
+    participant: undefined
+  },
+  messageTimestamp: 1714953536,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola cómo estás?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola cómo estás?',
+  from: '573234257398'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b363fb39-6caf-4580-874a-3ab021f4f34a',
+  keyword: 'key_84d0508f-dfc6-4732-b00a-360341a923f2',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd75cf58177080b3a9004e8eb9741a203'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_18ab8141-1d52-4bbc-a55a-d72422842194',
+  keyword: 'ans_b363fb39-6caf-4580-874a-3ab021f4f34a',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f38eeab2cbf75d187d3817e30413e25b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '622F387BDBE4D44C91ED1F5FD919582B',
+    participant: undefined
+  },
+  messageTimestamp: 1714953544,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573234257398'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '2D2B0543A3DE5720582E71662BF20744',
+    participant: undefined
+  },
+  messageTimestamp: 1714953547,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '573234257398'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_72f15b88-61be-45bb-b7d0-d2ea123ab18e',
+  keyword: 'key_925e7cc9-a29b-4880-ab9c-c26f76bb6e8f',
+  answer: 'Elegi alguna de estas opciones:\r\n' +
+    '\r\n' +
+    'Opcion 1 - Menu\r\n' +
+    'Opcion 2 - Reservar mesa\r\n' +
+    'Opcion 3 - Hacer consultas\r\n' +
+    '\r\n' +
+    'Opcion 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '94422568f20f8cadc77bbb01fc20c5c5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: '0753AC19175206C5E3A50FD4AED78921',
+    participant: undefined
+  },
+  messageTimestamp: 1714953550,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573234257398'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573234257398@s.whatsapp.net',
+    fromMe: false,
+    id: 'A13BB6F98F86CAB957A464B45F609EFA',
+    participant: undefined
+  },
+  messageTimestamp: 1714953560,
+  pushName: 'Anthony',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que precio las bebidas?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que precio las bebidas?',
+  from: '573234257398'
+}
